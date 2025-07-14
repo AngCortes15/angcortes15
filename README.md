@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Angel Cortés**
+# 👋 Hi there! I'm **Angel Cortes**
 
 ## 🚀 About Me  
 I'm a **Systems Engineer** with a strong passion for building scalable, reliable, and efficient software solutions.  
