@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm **Angel Cortes**
+# 👋 Hi there! I'm Angel Cortés
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angel-david-cortes-pacheco-32a93b1b3/)
 
 ## 🚀 About Me  
 I'm a **Systems Engineer** with a strong passion for building scalable, reliable, and efficient software solutions.  
@@ -18,10 +20,10 @@ When I'm not coding, you'll find me learning something new in cloud technologies
 - Experience with both **Relational (SQL)** and **Non-relational (NoSQL)** databases  
 
 ### ☁️ Cloud & DevOps  
-- **AWS Certified Cloud Practitioner** – Building on and learning from the AWS ecosystem  
-- **Docker** – Containerization and deployment  
-- **Kubernetes** – Container orchestration  
-- **Version Control** – Git & GitHub for collaborative development  
+- ☁️ **AWS Certified Cloud Practitioner** – Building on and learning from the AWS ecosystem  
+- 🐳 **Docker** – Containerization and deployment  
+- ☸️ **Kubernetes** – Container orchestration  
+- 🔧 **Version Control** – Git & GitHub for collaborative development  
 
 ---
 
