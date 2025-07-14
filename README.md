@@ -1,32 +1,37 @@
-Hi there! 👋 I'm Angel Cortés
-🚀 About Me
-I'm a Systems Engineer passionate about building scalable and efficient solutions. I love coding and continuously expanding my technical expertise while collaborating with amazing teams.
 💻 Tech Stack
 Languages & Frameworks
 
-JavaScript - Full-stack development with Node.js (backend) and modern frontend frameworks
-Python - Building robust APIs with FastAPI
-Database Management - Both relational and non-relational databases
+JavaScript – Full-stack development with Node.js on the backend and modern frontend frameworks
+
+Python – API development using FastAPI
+
+Databases
+
+Experience with both Relational (SQL) and Non-relational (NoSQL) databases
 
 Cloud & DevOps
 
-AWS - Certified AWS Cloud Practitioner ☁️
-Docker - Containerization and deployment
-Kubernetes - Container orchestration
-Version Control - Git & GitHub for collaborative development
+☁️ AWS Certified Cloud Practitioner – Building on and learning from the AWS ecosystem
+
+🐳 Docker – Containerization and deployment
+
+☸️ Kubernetes – Container orchestration
+
+🔧 Version Control – Git & GitHub for collaborative development
 
 🌱 Currently Learning
+Advanced AWS services (Lambda, ECS, CDK, etc.)
 
-Advanced AWS services and architecture patterns
-Expanding my cloud infrastructure knowledge
+Cloud architecture best practices and automation
 
-👥 What I Bring to Teams
+🤝 Soft Skills
+🧠 Lifelong Learner – Always curious and hungry for growth
 
-Collaborative mindset - I thrive in team environments and enjoy working together to solve complex problems
-Continuous learner - Always eager to acquire new skills and stay updated with the latest technologies
-Open communicator - I value sharing ideas and providing constructive feedback
+🤝 Team Player – I enjoy working with others and believe collaboration leads to the best solutions
 
-🔭 Let's Connect!
-I'm always open to discussing technology, sharing knowledge, and exploring new opportunities. Feel free to reach out if you'd like to collaborate or just chat about tech!
+💬 Open Communicator – I like to contribute ideas and believe every voice matters
 
-"The best way to learn is by doing, and the best way to grow is by sharing knowledge with others."
+🔍 Let's Connect!
+I'm always open to learning from others, sharing knowledge, and collaborating on exciting projects. If you have something cool to build or discuss, let’s talk!
+
+“The best way to learn is by doing. The best way to grow is by sharing.”
