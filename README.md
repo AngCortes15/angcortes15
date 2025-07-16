@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Angel Cortés
+# 👋 Hi there! I'm Angel Cortes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angel-david-cortes-pacheco-32a93b1b3/)
 
